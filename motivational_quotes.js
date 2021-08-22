@@ -16,7 +16,7 @@ const badStart = [
 const neutralStart = [
   "It's time to get up!",
   'Wake up!',
-  'Are you ready?',
+  'Are you ready for a new day?',
   'Awake, yet?',
   'Hey there!',
 ];
@@ -37,8 +37,8 @@ const motivationMid = [
   ['1 2', 'Grab your clothes'],
   ['1 2 3', 'Take a deep breath'],
   ['1 2 3', 'Start your day with positive thoughts'],
-  ['1 2 3', 'Keep your head high'],
-  ['1 2 3', 'Get up, Friend,'],
+  ['1 2', 'Keep your head high'],
+  ['1 2 3', 'Get up, Friend'],
 ];
 
 const motivationEnd = [
